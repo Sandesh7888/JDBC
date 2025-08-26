@@ -1,5 +1,6 @@
 package jdbc;
 //contro+shift+o  packeages
+
 //alt+shift+z     try catch
 import java.sql.*;
 
